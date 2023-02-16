@@ -1,7 +1,7 @@
  - 👋 Hi, I’m @michelestaffiere
  - 👀 I’m interested in web devlopment and powerlifting!
- - 🌱 I’m currently learning how to code (HTML5,CSS,JS)
- - 💞️ I’m looking to collaborate on anything and everything i can get my hands on to grow and learn
+ - 🌱 I’m currently learning web devlopment!
+ - 💞️ I’m looking to collaborate on anything and everything i can get my hands on to grow and learn.
  - 📫 Feel free to connect with me on linkedin! Michele Staffiere
 
 <!---
